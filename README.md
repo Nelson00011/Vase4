@@ -95,11 +95,21 @@ Connect with me on <a href="https://www.linkedin.com/in/ayla-nelson/">LinkedIn</
 Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 
 ## Resources:
+- **OpenAi** for chatGPT [here](https://openai.com/)
+    - **ChatGPT** [here](https://platform.openai.com/docs/overview).
+    - **Canvas** mode article [here](https://openai.com/index/introducing-canvas/)
+    - Image Generation with 4o [here](https://openai.com/index/introducing-4o-image-generation/) 
 
-- `Tech used and links associated`
-- `Tech used and links associated`
+- **Gemini** from Google [here](https://deepmind.google/models/gemini/)
+    - **DeepMind** also produced **Gemma** [here](https://deepmind.google/models/gemma/) that works with **PyTorch** [here](https://ai.google.dev/gemma/docs/core/pytorch_gemma)
 
-`<examples below>`
+- **Copilot** from Microsoft [here](https://copilot.microsoft.com/chats/rpkvJ7S3n4AYbn2snuAYW)
+    - **AI Assistant** tools to SuperCharge [here](https://www.microsoft.com/en-us/microsoft-copilot/organizations)
+
+- **Claude** from Anthropic [here](https://www.anthropic.com/claude)
+    - **Anthropic** Article [here](https://www.anthropic.com/news/introducing-claude)
+
+
 - **PostMan** for API Tests [here](https://www.postman.com/)
     - jsonwebtoken / [jwt](https://jwt.io/) for Authentification & install [here](https://www.npmjs.com/package/jsonwebtoken)
     - jwt Debugger [here](https://jwt.io/#debugger-io)
