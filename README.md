@@ -107,7 +107,17 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     - **AI Assistant** tools to SuperCharge [here](https://www.microsoft.com/en-us/microsoft-copilot/organizations)
 
 - **Claude** from Anthropic [here](https://www.anthropic.com/claude)
-    - **Anthropic** Article [here](https://www.anthropic.com/news/introducing-claude)
+    - **Anthropic** Article [here](https://www.anthropic.com/news/introducing-claude) is prefered for Code Generation
+
+#### **Large Language Models (LLM):**
+- **DeepSeek** for LLM models [here](https://www.deepseek.com/)
+    - Github Repo's for educational purposes [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+
+- **Hugging Face** for LLM models [here](https://huggingface.co/)
+    - Models search [here](https://huggingface.co/models)
+
+- **LM Arena** for LLM models [here](https://lmarena.ai/)
+    - Prompt. Vote. Advance AI. 
 
 
 - **PostMan** for API Tests [here](https://www.postman.com/)
