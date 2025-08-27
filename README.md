@@ -117,8 +117,9 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     - Models search [here](https://huggingface.co/models)
 
 - **LM Arena** for LLM models [here](https://lmarena.ai/)
-    - Prompt. Vote. Advance AI. 
-
+    - Prompt. Vote. Advance AI. (GPU's and VRAMS)[https://maximilian-schwarzmueller.com/articles/llms-gpu-cpu-vram-ram/] and [Making Sense of Quantization](https://maximilian-schwarzmueller.com/articles/making-sense-of-quantization/)
+    - With AWS [Using Open LLMs On-Demand via Bedrock](https://maximilian-schwarzmueller.com/articles/using-open-models-on-demand-via-bedrock/)
+    - AWS in combination with [Ollama EC2](https://medium.com/@sreskills/configuring-ollama-ai-llm-on-an-ec2-instance-in-aws-12cff0f5d83b)
 
 - **PostMan** for API Tests [here](https://www.postman.com/)
     - jsonwebtoken / [jwt](https://jwt.io/) for Authentification & install [here](https://www.npmjs.com/package/jsonwebtoken)
