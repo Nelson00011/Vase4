@@ -109,6 +109,9 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 - **Claude** from Anthropic [here](https://www.anthropic.com/claude)
     - **Anthropic** Article [here](https://www.anthropic.com/news/introducing-claude) is prefered for Code Generation
 
+- **KlingAI** for [Image Generation](https://www.klingai.com/global/)
+    - Documentation and [Video Editing](https://app.klingai.com/global/image-to-video/frame-mode/new?ra=4) is available
+
 #### **Large Language Models (LLM):**
 - **DeepSeek** for LLM models [here](https://www.deepseek.com/)
     - Github Repo's for educational purposes [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
