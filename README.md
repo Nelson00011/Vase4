@@ -99,6 +99,8 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     - **ChatGPT** [here](https://platform.openai.com/docs/overview).
     - **Canvas** mode article [here](https://openai.com/index/introducing-canvas/)
     - Image Generation with 4o [here](https://openai.com/index/introducing-4o-image-generation/) 
+    - **DALL-E2 / 3** for [Image Generation](https://openai.com/index/dall-e-3/)
+        - Older **Dall-E2** [Video Tools](https://openai.com/index/dall-e-2/)
 
 - **Gemini** from Google [here](https://deepmind.google/models/gemini/)
     - **DeepMind** also produced **Gemma** [here](https://deepmind.google/models/gemma/) that works with **PyTorch** [here](https://ai.google.dev/gemma/docs/core/pytorch_gemma)
@@ -133,12 +135,8 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     - **Upscalers** increase image [size](https://docs.midjourney.com/hc/en-us/articles/32804058614669-Upscalers)
       - Movie and [video](https://docs.midjourney.com/hc/en-us/articles/37460773864589-Video) generation
 
+#### **Additional Tools:**
 
-- **PostMan** for API Tests [here](https://www.postman.com/)
-    - jsonwebtoken / [jwt](https://jwt.io/) for Authentification & install [here](https://www.npmjs.com/package/jsonwebtoken)
-    - jwt Debugger [here](https://jwt.io/#debugger-io)
-- **React.New** allows for testing new React projects [here](react.new)
-- [bcrypt.js](https://www.npmjs.com/package/bcryptjs) part of password hasing for user Authentification. 
 
 
 #### **style:** 
