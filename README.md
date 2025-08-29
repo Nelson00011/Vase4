@@ -109,8 +109,6 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 - **Claude** from Anthropic [here](https://www.anthropic.com/claude)
     - **Anthropic** Article [here](https://www.anthropic.com/news/introducing-claude) is prefered for Code Generation
 
-- **KlingAI** for [Image Generation](https://www.klingai.com/global/)
-    - Documentation and [Video Editing](https://app.klingai.com/global/image-to-video/frame-mode/new?ra=4) is available
 
 #### **Large Language Models (LLM):**
 - **DeepSeek** for LLM models [here](https://www.deepseek.com/)
@@ -120,9 +118,21 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     - Models search [here](https://huggingface.co/models)
 
 - **LM Arena** for LLM models [here](https://lmarena.ai/)
-    - Prompt. Vote. Advance AI. [GPU's and VRAMS(https://maximilian-schwarzmueller.com/articles/llms-gpu-cpu-vram-ram/) and [Making Sense of Quantization](https://maximilian-schwarzmueller.com/articles/making-sense-of-quantization/)
+    - Prompt. Vote. Advance AI. [GPU's and VRAMS](https://maximilian-schwarzmueller.com/articles/llms-gpu-cpu-vram-ram/) and [Making Sense of Quantization](https://maximilian-schwarzmueller.com/articles/making-sense-of-quantization/)
     - With AWS [Using Open LLMs On-Demand via Bedrock](https://maximilian-schwarzmueller.com/articles/using-open-models-on-demand-via-bedrock/)
     - AWS in combination with [Ollama EC2](https://medium.com/@sreskills/configuring-ollama-ai-llm-on-an-ec2-instance-in-aws-12cff0f5d83b)
+
+
+#### **Image Generation:**
+- **KlingAI** for [Image Generation](https://www.klingai.com/global/)
+    - Documentation and [Video Editing](https://app.klingai.com/global/image-to-video/frame-mode/new?ra=4) is available
+
+- **MidJourney** for [Image Generation](https://www.midjourney.com/home)
+    - Documentation for getting [started](https://docs.midjourney.com/hc/en-us) with image Generation
+    - Discord compatability is [available](https://discord.com/invite/midjourney)
+    - **Upscalers** increase image [size](https://docs.midjourney.com/hc/en-us/articles/32804058614669-Upscalers)
+      - Movie and [video](https://docs.midjourney.com/hc/en-us/articles/37460773864589-Video) generation
+
 
 - **PostMan** for API Tests [here](https://www.postman.com/)
     - jsonwebtoken / [jwt](https://jwt.io/) for Authentification & install [here](https://www.npmjs.com/package/jsonwebtoken)
