@@ -136,8 +136,9 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
       - Movie and [video](https://docs.midjourney.com/hc/en-us/articles/37460773864589-Video) generation
 
 #### **Additional Tools:**
-
-
+- **ElevenLabs** for [Voice AI Generation](https://elevenlabs.io/)
+    - Expressive Speech models [Eleven v3](https://elevenlabs.io/v3)
+    - Conversational Agent [Platform]()
 
 #### **style:** 
 - `frameworks and links associated`
