@@ -96,7 +96,9 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 
 ## Resources:
 - **OpenAi** for chatGPT [here](https://openai.com/)
-    - **ChatGPT** [here](https://platform.openai.com/docs/overview).
+    - **ChatGPT** [here](https://platform.openai.com/docs/overview)
+        - Pricing Options for [Platform](https://platform.openai.com/docs/pricing) and [OpenAI](https://openai.com/api/pricing/) including Text Generation [Documentation](https://platform.openai.com/docs/guides/text?api-mode=responses)
+    - Large Language Models (LLM)
     - **Canvas** mode article [here](https://openai.com/index/introducing-canvas/)
     - Image Generation with 4o [here](https://openai.com/index/introducing-4o-image-generation/) 
     - **DALL-E2 / 3** for [Image Generation](https://openai.com/index/dall-e-3/)
