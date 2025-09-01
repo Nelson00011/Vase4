@@ -100,6 +100,24 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     - **ChatGPT** [here](https://platform.openai.com/docs/overview)
         - Pricing Options for [Platform](https://platform.openai.com/docs/pricing) and [OpenAI](https://openai.com/api/pricing/) including Text Generation [Documentation](https://platform.openai.com/docs/guides/text?api-mode=responses)
     - Large Language Models (LLM) like [LM Studio as a Local LLM API Server](https://lmstudio.ai/docs/app/api) and [Configuring Ollama AI LLM](https://medium.com/@sreskills/configuring-ollama-ai-llm-on-an-ec2-instance-in-aws-12cff0f5d83b), including [models](https://platform.openai.com/docs/models)
+    
+    ```
+    > api_url = "https://api.openai.com/v1/responses"
+  headers = {
+    > "Content-Type": "application/json",
+    > "Authorization": "Bearer YOUR OPENAI API KEY"
+        }
+    > body = {
+    > "model": "gpt-4o-mini",
+    > "instructions": "You are a helpful, friendly assistant.",
+    > "input": history,
+    > "temperature": 0.7,
+    > "top_p": 0.9
+          }
+ 
+    > response = requests.post(api_url, headers=headers, json=body)
+    ```
+
     - **Canvas** mode article [here](https://openai.com/index/introducing-canvas/)
     - Image Generation with 4o [here](https://openai.com/index/introducing-4o-image-generation/) 
     - **DALL-E2 / 3** for [Image Generation](https://openai.com/index/dall-e-3/)
