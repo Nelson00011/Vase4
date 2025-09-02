@@ -117,11 +117,13 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
  
     > response = requests.post(api_url, headers=headers, json=body)
     ```
-
     - **Canvas** mode article [here](https://openai.com/index/introducing-canvas/)
     - Image Generation with 4o [here](https://openai.com/index/introducing-4o-image-generation/) 
     - **DALL-E2 / 3** for [Image Generation](https://openai.com/index/dall-e-3/)
         - Older **Dall-E2** [Video Tools](https://openai.com/index/dall-e-2/)
+
+- **n8n** is a Flexible [AI Workflow](https://n8n.io/?ps_partner_key=OTVlYzIyMDM5NjBl&ps_xid=Va7qbTJi4jqN9L&gsxid=Va7qbTJi4jqN9L&gspk=OTVlYzIyMDM5NjBl&gad_source=1) automation for technical teams automation for technical teams:
+    - **Docker Installation** [documentation](https://docs.n8n.io/hosting/installation/docker/)
 
 - **Gemini** from Google [here](https://deepmind.google/models/gemini/)
     - **DeepMind** also produced **Gemma** [here](https://deepmind.google/models/gemma/) that works with **PyTorch** [here](https://ai.google.dev/gemma/docs/core/pytorch_gemma)
