@@ -100,10 +100,11 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 - **Gumloop** The AI automation platform built for everyone [here](https://www.gumloop.com/)
 - **Flowise** Build AI Agents Visually [here](https://flowiseai.com/)
 - **Trilix** build AI Agent Teams without being a software engineer and the first no-code AI Agent Builder [created](https://dev3lop.com/trilex-ai/)
----
+--
 - **Pydantic AI** is a Python agent framework designed to make it less painful to build production grade applications with [Generative AI](https://ai.pydantic.dev/) and [github](https://github.com/pydantic/pydantic-ai)
 - **Crew AI** The Leading Multi-Agent [Platform Streamline](https://www.crewai.com/) workflows across industries with powerful AI agents. Build and deploy automated workflows using any LLM and cloud platform. [Github](https://github.com/crewAIInc/crewAI) is a useful tool.
 - **AI SDK** is the TypeScript [toolkit](https://ai-sdk.dev/docs/introduction) designed to help developers build AI-powered applications and agents with React, Next.js, Vue, Svelte, Node.js, and more.
+- **SerpApi** Scrape Google and other search engines from our fast, easy, and complete API [Google Search API](https://serpapi.com/?gad_source=1&gad_campaignid=21563825039&gbraid=0AAAAADD8kqPGGWVhgVvTj2-z8C73cnh8f&gclid=CjwKCAjwq9rFBhAIEiwAGVAZP3PxtoAUNtXXIvFTKpEkvSQBekik3wKJIqENhXdAXncXSZPmbPOTARoCbF8QAvD_BwE)
 
 #### **Artificial Intelligence (AI):**
 - **OpenAi** for chatGPT [here](https://openai.com/)
