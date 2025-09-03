@@ -8,8 +8,8 @@ html {
   font-family: "Quicksand", sans-serif;
   line-height: 1.5;
 
-  color: #ebe7ef;
-  background: radial-gradient(#280a48, #20043d);
+  color: #e7efef;
+  background: radial-gradient(#0a1b48, #05043d);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -28,15 +28,15 @@ main {
 #core-concepts {
   padding: 2rem;
   border-radius: 6px;
-  background-color: #140524;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+  background-color: #051e24;
+  box-shadow: 0 2px 8px rgba(4, 33, 87, 0.4);
 }
 
 main h2 {
   text-align: center;
   font-family: "Roboto Condensed", sans-serif;
   margin: 0 0 1.5rem 0;
-  color: #a18aba;
+  color: #8aba9c;
 }
 
 #core-concepts ul {
@@ -87,7 +87,7 @@ main h2 {
 #tab-content {
   padding: 1rem;
   border-radius: 6px;
-  background-color: #2f1d43;
+  background-color: #1d3143;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
