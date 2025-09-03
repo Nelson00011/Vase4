@@ -4,6 +4,7 @@ import { CORE_CONCEPTS, EXAMPLES } from './data.js';
 import Header from './components/Header/Header.jsx';
 import CoreConcept from './components/CoreConcept.jsx';
 import TabButton from './components/TabButton.jsx';
+import Footer from './components/Footer.jsx'; 
 
 function App() {
   const [selectedTopic, setSelectedTopic] = useState();
@@ -76,6 +77,8 @@ function App() {
           {tabContent}
         </section>
       </main>
+      
+      <Footer />
     </div>
   );
 }
