@@ -3,7 +3,7 @@
 `main image`
 
 ## Description:
-ChatGPT and Generative AI educational Guide. Basic application for fun practice and Vase building. The Expression *One Vase A day will teach you more than spending hours trying to perfectly make one vase.* 
+**ChatGPT** and **Generative AI** educational Guide. Basic application for fun practice and Vase building. The Expression *One Vase A day will teach you more than spending hours trying to perfectly make one vase.* 
 
 ## Technology Stack
 - **Frontend/Client:** React.js, HTML5, CSS, framework, etc.
@@ -100,7 +100,7 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 - **Gumloop** The AI automation platform built for everyone [here](https://www.gumloop.com/)
 - **Flowise** Build AI Agents Visually [here](https://flowiseai.com/)
 - **Trilix** build AI Agent Teams without being a software engineer and the first no-code AI Agent Builder [created](https://dev3lop.com/trilex-ai/)
---
+
 - **Pydantic AI** is a Python agent framework designed to make it less painful to build production grade applications with [Generative AI](https://ai.pydantic.dev/) and [github](https://github.com/pydantic/pydantic-ai)
 - **Crew AI** The Leading Multi-Agent [Platform Streamline](https://www.crewai.com/) workflows across industries with powerful AI agents. Build and deploy automated workflows using any LLM and cloud platform. [Github](https://github.com/crewAIInc/crewAI) is a useful tool.
 - **AI SDK** is the TypeScript [toolkit](https://ai-sdk.dev/docs/introduction) designed to help developers build AI-powered applications and agents with React, Next.js, Vue, Svelte, Node.js, and more.
@@ -146,6 +146,7 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 #### **Large Language Models (LLM):**
 - **DeepSeek** for LLM models [here](https://www.deepseek.com/)
     - Github Repo's for educational purposes [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1)
+    - Pricing Options [available](https://github.com/features/copilot/plans)
 
 - **Hugging Face** for LLM models [here](https://huggingface.co/)
     - Models search [here](https://huggingface.co/models)
@@ -165,6 +166,16 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     - Discord compatability is [available](https://discord.com/invite/midjourney)
     - **Upscalers** increase image [size](https://docs.midjourney.com/hc/en-us/articles/32804058614669-Upscalers)
       - Movie and [video](https://docs.midjourney.com/hc/en-us/articles/37460773864589-Video) generation
+
+#### **Developer Tools:**
+- **GitHub Copilot** writes, tests, and iterates—using GitHub Actions to run code and deliver ready-to-review pull [requests](https://github.com/features/copilot)
+    - **Github Copilot Chat** [specific](https://docs.github.com/en/copilot/how-tos/use-chat/get-started-with-chat) questions about your project or general software questions. You can also ask Copilot Chat to write code, fix errors, write tests, and document code. Allows inserting code at the position of the cursor. 
+    ```
+    >github fix
+    ```
+
+- **Cursor** Built to make you extraordinarily productive, [Cursor](https://cursor.com/en) is the best way to code with AI.
+    - **Pricing** options are [available](https://cursor.com/pricing)
 
 #### **Additional Tools:**
 - **ElevenLabs** for [Voice AI Generation](https://elevenlabs.io/)
