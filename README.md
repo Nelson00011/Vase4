@@ -89,6 +89,7 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 #### **Video Generation:**
 - **MiniMax Agent** for [Image Generation](https://www.minimaxi.com/)
     - Documentation and flagship [Models](https://www.minimaxi.com/platform_overview) is available
+    - MiniMax (Hailuo AI) [Inspiring](https://www.minimax.io/news/minimax-hailuo-ai-x-inspiring-asia-2025-film-festival) Asia 2025 Film Festival
     - Language Generation applications for [speech](https://www.minimax.io/news/minimaxm1) and text [generation](https://www.minimax.io/news/minimax-speech-25)
 
 #### **Developer Tools:**
