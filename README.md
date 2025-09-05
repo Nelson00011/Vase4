@@ -1,6 +1,6 @@
 <h1 align="center">Vase4</h1>
 
-`main image`
+![Video Example](./screenShot/MiniMax_io.png)
 
 ## Description:
 **ChatGPT** and **Generative AI** educational Guide. Basic application for fun practice and Vase building. The Expression *One Vase A day will teach you more than spending hours trying to perfectly make one vase.* 
@@ -85,6 +85,11 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     - Discord compatability is [available](https://discord.com/invite/midjourney)
     - **Upscalers** increase image [size](https://docs.midjourney.com/hc/en-us/articles/32804058614669-Upscalers)
       - Movie and [video](https://docs.midjourney.com/hc/en-us/articles/37460773864589-Video) generation
+
+#### **Video Generation:**
+- **MiniMax Agent** for [Image Generation](https://www.minimaxi.com/)
+    - Documentation and flagship [Models](https://www.minimaxi.com/platform_overview) is available
+    - Language Generation applications for [speech](https://www.minimax.io/news/minimaxm1) and text [generation](https://www.minimax.io/news/minimax-speech-25)
 
 #### **Developer Tools:**
 - **GitHub Copilot** writes, tests, and iterates—using GitHub Actions to run code and deliver ready-to-review pull [requests](https://github.com/features/copilot)
