@@ -1,6 +1,6 @@
 <h1 align="center">Vase4</h1>
 
-![Video Example](./screenShot/MiniMax_io.png)
+<a href="https://www.minimax.io/"><img src="./screenShot/MiniMax_io.png"></img></a>
 
 ## Description:
 **ChatGPT** and **Generative AI** educational Guide. Basic application for fun practice and Vase building. The Expression *One Vase A day will teach you more than spending hours trying to perfectly make one vase.* 
