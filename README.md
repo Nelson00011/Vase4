@@ -91,14 +91,14 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     - Documentation and flagship [Models](https://www.minimaxi.com/platform_overview) is available
     - MiniMax (Hailuo AI) [Inspiring](https://www.minimax.io/news/minimax-hailuo-ai-x-inspiring-asia-2025-film-festival) Asia 2025 Film Festival
     - Language Generation applications for [speech](https://www.minimax.io/news/minimaxm1) and text [generation](https://www.minimax.io/news/minimax-speech-25)
-        - This includes music generation with lyrics or simply choosing genre MiniMax[2.4](https://www.minimax.io/news/music-26)
+        - This includes music generation with lyrics or simply choosing genre [MiniMax2.4](https://www.minimax.io/news/music-26)
 
     <audio controls autoplay muted>
     <source src="./audio/When+the+Ocean+Stops+Kissing+the+Sand.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
     </audio>
 
-    - Test Audio with Poems, written prior (update stx, ignore the random latin ipsum)
+    - Test Audio with Poems, written prior (update stx, ignore the random latin ipsum) `./audio/When+the+Ocean+Stops+Kissing+the+Sand.mp3`
 
 #### **Developer Tools:**
 - **GitHub Copilot** writes, tests, and iterates—using GitHub Actions to run code and deliver ready-to-review pull [requests](https://github.com/features/copilot)
