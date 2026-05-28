@@ -115,6 +115,29 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     - Expressive Speech models [Eleven v3](https://elevenlabs.io/v3)
     - Conversational Agent [Platform]()
 
+- *Vector Database* using older databases:
+    - [Qdrant](https://qdrant.tech/rag/) is designed for Fast Retrievals, Multi-Vector Support. Integrate with [Cohere](https://cohere.com/), [OpenAI](https://openai.com/), [LangChain](https://www.langchain.com/)
+    - [PGVector](https://github.com/pgvector/pgvector) similiar Postgres
+    - [Milvus](https://milvus.io/) real-world, production workloads [Zilliz comparision of Milvus to Elastic](https://zilliz.com/comparison/milvus-vs-elastic)
+    - [PineCone](https://www.pinecone.io/) is the leading vector database for building accurate and performant AI applications at scale in production.
+
+    ```
+    from pinecone import Pinecone, ServerlessSpec
+
+pc = Pinecone("<API KEY>")
+
+pc.create_index(
+    name=index_name,
+    dimension=1024,
+    metric="cosine",
+    spec=ServerlessSpec(
+        cloud='aws', 
+        region='us-east-1'
+   ) 
+ )
+    ```
+
+
 #### **style:** 
 - `frameworks and links associated`
 
