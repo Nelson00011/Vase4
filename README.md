@@ -123,7 +123,10 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
 
     ```
     from pinecone import Pinecone, ServerlessSpec
+    ```
 
+
+    ```
     pc = Pinecone("<API KEY>")
 
     pc.create_index(
@@ -135,7 +138,7 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
             region='us-east-1'
         ) 
     )
-    
+
     ```
 
 
