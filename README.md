@@ -124,17 +124,18 @@ Connect with me on <a href="https://github.com/oakHalo">Oakhalo.dev</a>
     ```
     from pinecone import Pinecone, ServerlessSpec
 
-pc = Pinecone("<API KEY>")
+    pc = Pinecone("<API KEY>")
 
-pc.create_index(
-    name=index_name,
-    dimension=1024,
-    metric="cosine",
-    spec=ServerlessSpec(
-        cloud='aws', 
-        region='us-east-1'
-   ) 
- )
+    pc.create_index(
+        name=index_name,
+        dimension=1024,
+        metric="cosine",
+        spec=ServerlessSpec(
+            cloud='aws', 
+            region='us-east-1'
+        ) 
+    )
+    
     ```
 
 
